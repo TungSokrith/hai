@@ -1,0 +1,117 @@
+.map-type-selector_select_point[data-v-0cf95ee2] {
+    position: absolute;
+    left: .6em;
+    top: 4em;
+    z-index: 1
+}
+
+.map-type-selector_select_point .v-card__actions[data-v-0cf95ee2] {
+    background-color: inherit
+}
+
+.gender-select[data-v-0cf95ee2] {
+    text-transform: capitalize
+}
+
+@media(max-width: 1024px) {
+    .map-type-selector_select_point[data-v-0cf95ee2] {
+        position:static
+    }
+}
+
+.page-header {
+    text-align: center
+}
+
+.page-header__title {
+    font-size: 2.188rem!important
+}
+
+.product_subscription__title[data-v-0ca6ee16] {
+    text-align: center;
+    margin-top: 24px;
+    padding-bottom: 24px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid rgba(0,0,0,.12)
+}
+
+.product_subscription__title-name[data-v-0ca6ee16] {
+    margin-bottom: 16px;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: #000!important
+}
+
+.product_subscription__title-cost[data-v-0ca6ee16] {
+    font-size: 1.5rem;
+    padding-bottom: 24px
+}
+
+.product_subscription__subtitle[data-v-0ca6ee16] {
+    margin-bottom: 8px;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 1rem
+}
+
+.product_subscription__addons .v-input[data-v-0ca6ee16] {
+    padding: 8px 0
+}
+
+[data-v-0ca6ee16] .page-header__sub-title {
+    color: #000!important
+}
+
+.cost[data-v-0ca6ee16] {
+    font-size: 1.2em;
+    padding-bottom: 15px
+}
+
+.cost[data-v-0ca6ee16] small {
+    color: #c3c3c3!important
+}
+
+.slide-fade-enter-active[data-v-0ca6ee16] {
+    transition: all .3s ease-out
+}
+
+.slide-fade-leave-active[data-v-0ca6ee16] {
+    transition: all .8s cubic-bezier(1,.5,.8,1)
+}
+
+.slide-fade-enter-from[data-v-0ca6ee16],.slide-fade-leave-to[data-v-0ca6ee16] {
+    transform: translateY(40px);
+    opacity: 0
+}
+
+.device[data-v-c567b9c8] {
+    padding: 0
+}
+
+.device .v-card__title[data-v-c567b9c8] {
+    height: 95px
+}
+
+.device .price[data-v-c567b9c8] {
+    margin-top: auto
+}
+
+.device-info .v-card__title[data-v-c567b9c8] {
+    color: #6f4b98!important;
+    font-size: 3.125rem!important;
+    padding-bottom: 50px
+}
+
+.device-info .v-card__subtitle[data-v-c567b9c8] {
+    text-align: left;
+    font-size: 1.563rem!important
+}
+
+.device-info .v-card__text[data-v-c567b9c8] {
+    text-align: left;
+    font-size: 1.25rem!important
+}
+
+.device-info .price[data-v-c567b9c8] {
+    font-size: 1.563rem!important
+}
